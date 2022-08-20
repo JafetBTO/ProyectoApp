@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">ProyectoApp</string>
+    <string name="hello_blank_fragments">Hello_blank_fragment</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="email">Email</string>
+    <string name="telefono">Telefono</string>
+    <string name="edad">Edad</string>
+    <string name="guardar">Guardar</string>
+    <string name="borrar_persona">¿Borrar persona?</string>
+    <string name="si">Si, borrar</string>
+    <string name="cancelar">Cancelar</string>
 </resources>
