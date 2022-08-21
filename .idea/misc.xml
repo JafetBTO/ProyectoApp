@@ -5,10 +5,15 @@
       <map>
         <entry key="..\:/Users/Jafet/AndroidStudioProjects/ProyectoApp/app/src/main/res/layout/activity_formulario.xml" value="0.209375" />
         <entry key="..\:/Users/Jafet/AndroidStudioProjects/ProyectoApp/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Users/Jafet/AndroidStudioProjects/ProyectoApp/app/src/main/res/layout/activity_principal.xml" value="0.1" />
+        <entry key="..\:/Users/Jafet/AndroidStudioProjects/ProyectoApp/app/src/main/res/layout/app_bar.xml" value="0.1" />
         <entry key="..\:/Users/Jafet/AndroidStudioProjects/ProyectoApp/app/src/main/res/layout/fragment_pokemon_detail.xml" value="0.1" />
         <entry key="..\:/Users/Jafet/AndroidStudioProjects/ProyectoApp/app/src/main/res/layout/fragment_pokemon_list.xml" value="0.1" />
         <entry key="..\:/Users/Jafet/AndroidStudioProjects/ProyectoApp/app/src/main/res/layout/item_list.xml" value="0.1" />
+        <entry key="..\:/Users/Jafet/AndroidStudioProjects/ProyectoApp/app/src/main/res/layout/nav_header.xml" value="0.1" />
         <entry key="..\:/Users/Jafet/AndroidStudioProjects/ProyectoApp/app/src/main/res/layout/pokemon_row.xml" value="0.1" />
+        <entry key="..\:/Users/Jafet/AndroidStudioProjects/ProyectoApp/app/src/main/res/layout/reg.xml" value="0.1" />
+        <entry key="..\:/Users/Jafet/AndroidStudioProjects/ProyectoApp/app/src/main/res/menu/menu.xml" value="0.1" />
       </map>
     </option>
   </component>
