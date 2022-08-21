@@ -3,7 +3,6 @@ package com.example.proyectoapp.view
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.example.proyectoapp.R
-
 import android.content.DialogInterface
 import android.content.Intent
 import android.content.res.Configuration
@@ -18,7 +17,6 @@ import com.google.android.material.navigation.NavigationView
 
 class Principal : AppCompatActivity() {
 
-
     private lateinit var toggle: ActionBarDrawerToggle
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -26,13 +24,29 @@ class Principal : AppCompatActivity() {
         setContentView(R.layout.activity_principal)
 
 
-        val boton1=findViewById<Button>(R.id.btn_Reg)
+        val boton1=findViewById<Button>(R.id.btnagenda)
         boton1.setOnClickListener {
             val intent1 = Intent(this, MainActivity::class.java)
             startActivity(intent1)
         }
 
-        val boton2=findViewById<Button>(R.id.btn_Login)
+        val boton2=findViewById<Button>(R.id.btnpokedex)
+        boton2.setOnClickListener {
+            val intent2 = Intent(this, Pokedex::class.java)
+            startActivity(intent2)
+        }
+
+        val boton3=findViewById<Button>(R.id.btnmapa)
+        boton2.setOnClickListener {
+            val intent2 = Intent(this, Pokedex::class.java)
+            startActivity(intent2)
+        }
+        val boton4=findViewById<Button>(R.id.btnmapa2)
+        boton2.setOnClickListener {
+            val intent2 = Intent(this, Pokedex::class.java)
+            startActivity(intent2)
+        }
+        val boton5=findViewById<Button>(R.id.btncamara)
         boton2.setOnClickListener {
             val intent2 = Intent(this, Pokedex::class.java)
             startActivity(intent2)

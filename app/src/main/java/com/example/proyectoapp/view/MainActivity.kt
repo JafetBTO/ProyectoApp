@@ -6,14 +6,10 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.text.Editable
 import android.text.TextWatcher
-import androidx.databinding.DataBindingUtil
-import androidx.databinding.ViewDataBinding
 import androidx.lifecycle.Observer
-import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.get
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.proyectoapp.R
 import com.example.proyectoapp.config.Constantes
 import com.example.proyectoapp.databinding.ActivityMainBinding
 import com.example.proyectoapp.view.adapter.PersonalAdapter
