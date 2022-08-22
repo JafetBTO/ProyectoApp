@@ -6,11 +6,9 @@ import android.os.Bundle
 import android.view.View
 import android.widget.Toast
 import androidx.lifecycle.Observer
-import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.get
-import com.example.proyectoapp.R
-import com.example.proyectoapp.config.Constantes
+import com.example.proyectoapp.data.local.dao.config.Constantes
 import com.example.proyectoapp.databinding.ActivityFormularioBinding
 import com.example.proyectoapp.viewmodels.FormularioViewModel
 

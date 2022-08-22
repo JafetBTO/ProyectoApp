@@ -13,5 +13,6 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="drawer_open">Open</string>
     <string name="drawer_close">Close</string>
+    <string name="mapbox_access_token">sk.eyJ1IjoiamJ0b3IiLCJhIjoiY2w3NHNraTZiMGE2YTNucGFrcnh5d3lwdCJ9.RHx4N91qo91BHCbca637mw</string>
 
 </resources>

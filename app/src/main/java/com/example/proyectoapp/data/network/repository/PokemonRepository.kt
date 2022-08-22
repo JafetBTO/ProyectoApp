@@ -1,7 +1,7 @@
-package com.example.proyectoapp.repository
+package com.example.proyectoapp.data.network.repository
 
-import com.example.proyectoapp.services.RetrofitClient
-import com.example.proyectoapp.services.WebService
+import com.example.proyectoapp.data.network.services.RetrofitClient
+import com.example.proyectoapp.data.network.services.WebService
 
 class PokemonRepository {
     private var apiService: WebService? = null

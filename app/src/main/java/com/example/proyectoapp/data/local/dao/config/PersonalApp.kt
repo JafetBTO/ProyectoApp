@@ -1,4 +1,4 @@
-package com.example.proyectoapp.config
+package com.example.proyectoapp.data.local.dao.config
 
 import android.app.Application
 import androidx.room.Room

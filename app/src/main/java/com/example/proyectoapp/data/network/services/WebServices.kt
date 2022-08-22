@@ -1,4 +1,4 @@
-package com.example.proyectoapp.services
+package com.example.proyectoapp.data.network.services
 
 
 import com.example.proyectoapp.model.PokemonResponse

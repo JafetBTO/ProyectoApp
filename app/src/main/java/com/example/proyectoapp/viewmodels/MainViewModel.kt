@@ -1,11 +1,9 @@
 package com.example.proyectoapp.viewmodels
 
-import android.annotation.SuppressLint
-import android.util.Log
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.proyectoapp.config.PersonalApp.Companion.db
+import com.example.proyectoapp.data.local.dao.config.PersonalApp.Companion.db
 import com.example.proyectoapp.model.Personal
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch

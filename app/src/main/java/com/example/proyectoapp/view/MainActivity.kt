@@ -10,7 +10,7 @@ import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.get
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.proyectoapp.config.Constantes
+import com.example.proyectoapp.data.local.dao.config.Constantes
 import com.example.proyectoapp.databinding.ActivityMainBinding
 import com.example.proyectoapp.view.adapter.PersonalAdapter
 import com.example.proyectoapp.viewmodels.MainViewModel

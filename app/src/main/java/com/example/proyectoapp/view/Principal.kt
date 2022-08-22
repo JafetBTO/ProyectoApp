@@ -37,19 +37,19 @@ class Principal : AppCompatActivity() {
         }
 
         val boton3=findViewById<Button>(R.id.btnmapa)
-        boton2.setOnClickListener {
-            val intent2 = Intent(this, Pokedex::class.java)
-            startActivity(intent2)
+        boton3.setOnClickListener {
+            val intent3 = Intent(this, Mapa::class.java)
+            startActivity(intent3)
         }
         val boton4=findViewById<Button>(R.id.btnmapa2)
-        boton2.setOnClickListener {
-            val intent2 = Intent(this, Pokedex::class.java)
-            startActivity(intent2)
+        boton4.setOnClickListener {
+            val intent4 = Intent(this, Pokedex::class.java)
+            startActivity(intent4)
         }
         val boton5=findViewById<Button>(R.id.btncamara)
-        boton2.setOnClickListener {
-            val intent2 = Intent(this, Pokedex::class.java)
-            startActivity(intent2)
+        boton5.setOnClickListener {
+            val intent5 = Intent(this, Pokedex::class.java)
+            startActivity(intent5)
         }
 
         val drawer : DrawerLayout = findViewById(R.id.drawer_layout)

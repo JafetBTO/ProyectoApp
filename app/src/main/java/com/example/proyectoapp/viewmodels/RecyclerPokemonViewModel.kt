@@ -3,7 +3,7 @@ package com.example.proyectoapp.viewmodels
 import android.app.Application
 import androidx.lifecycle.*
 import com.example.proyectoapp.model.PokemonDataModel
-import com.example.proyectoapp.repository.PokemonRepository
+import com.example.proyectoapp.data.network.repository.PokemonRepository
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.Job

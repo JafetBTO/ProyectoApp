@@ -1,4 +1,4 @@
-package com.example.proyectoapp.dao
+package com.example.proyectoapp.data.local.dao
 
 import androidx.room.*
 

@@ -6,7 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.example.proyectoapp.R
-import com.example.proyectoapp.config.Constantes
+import com.example.proyectoapp.data.local.dao.config.Constantes
 import com.example.proyectoapp.databinding.ItemListBinding
 import com.example.proyectoapp.model.Personal
 import com.example.proyectoapp.view.FormularioActivity
