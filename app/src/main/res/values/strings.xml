@@ -15,4 +15,8 @@
     <string name="drawer_close">Close</string>
     <string name="mapbox_access_token">sk.eyJ1IjoiamJ0b3IiLCJhIjoiY2w3NHNraTZiMGE2YTNucGFrcnh5d3lwdCJ9.RHx4N91qo91BHCbca637mw</string>
 
+    //Foto
+    <string name="foto_de_perfil">Foto de perfil</string>
+    <string name="subir_foto">Subir Foto</string>
+    <string name="su_foto_le_ayuda_para_qu_sus_contactos_pueda_identificarle_m_s_r_pido">Su foto le ayuda para qué sus contactos pueda identificarle más rápido</string>
 </resources>

@@ -48,7 +48,7 @@ class Principal : AppCompatActivity() {
         }
         val boton5=findViewById<Button>(R.id.btncamara)
         boton5.setOnClickListener {
-            val intent5 = Intent(this, Pokedex::class.java)
+            val intent5 = Intent(this, Camara::class.java)
             startActivity(intent5)
         }
 
